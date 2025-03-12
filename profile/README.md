@@ -1,6 +1,7 @@
 # Position Pal
 
 ![license](https://img.shields.io/badge/Apache--2.0-green?style=for-the-badge)
+![hit-counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{position-pal}1212%2Fhit-counter)
 
 _PositionPal_ is an _open-source_ **micro-services**-based application for creating groups of **trusted** users with whom to **share** location, routes, and **notify** of dangerous or emergency situations to create an **effective** and **timely service** and **support network**.
 
