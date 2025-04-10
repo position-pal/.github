@@ -6,7 +6,15 @@ _PositionPal_ is an _open-source_ **micro-services**-based application for creat
 
 This project has been developed in the context of an academic project and is licensed under the Apache 2.0 License.
 
-## Useful links
+## Highlights ✨
+
+- Domain-Driven designed;
+- DevOps practices - build automation, CI/CD pipelines, automated version control, testing and QA, real-time monitoring;
+- Event-driven microservices architecture;
+- Kubernetes deployment;
+- Open source.
+
+## Useful links 🖇️
 
 - 📗 Explore the project, how it has been designed and implemented following the [Documentation](https://position-pal.github.io/)
 - 🚪 [Gateway](https://github.com/position-pal/gateway)
